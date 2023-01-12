@@ -1,6 +1,6 @@
 # HAIID-part2
 ## About the Project
-This is a coursework for Durham University Level 3 module of Human-AI Interaction Design. This project will install and utilise the API for emotion recognition application provided by IBM Watson® Natural Language Understanding and Google Vision AI.
+This is a coursework for Durham University Level 3 module Human-AI Interaction Design. This project will install and utilise the API for emotion recognition application provided by IBM Watson Natural Language Understanding and Google Vision AI.
 
 
 ## Getting Started
@@ -9,13 +9,13 @@ Here is how you could utilise the code.
 ### Prerequisites
 
 * Python3 (including pip)
-* Images files for analysis via Google Cloud Vision API
+* Image files for analysis via Google Cloud Vision API
 
 
 ### Installation
 
 1. Get API keys
-* Get an API key and URL for IBM Watson® Natural Language Understanding. Please follow [Get Started Tutorial](https://cloud.ibm.com/docs/natural-language-understanding?topic=natural-language-understanding-getting-started) by IBM Watson® Natural Language Understanding.
+* Get an API key and URL for IBM Watson Natural Language Understanding. Please follow [Get Started Tutorial](https://cloud.ibm.com/docs/natural-language-understanding?topic=natural-language-understanding-getting-started) by IBM Watson Natural Language Understanding.
 * Get credentials for Google Cloud Vision AI. Please follow [Quickstarts Tutorial](https://cloud.google.com/vision/docs/quickstarts) by Google Vision API. This will result in a JSON file containing your credentials being downloaded.
 
 2. Install ibm-watson
@@ -47,7 +47,7 @@ Here is how you could utilise the code.
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-* To use the IBM Watson® Natural Language Understanding, go to the terminal and type:
+* To use the IBM Watson Natural Language Understanding, go to the terminal and type:
     ```py
     python3 ibm.py
     ```
