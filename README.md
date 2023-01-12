@@ -2,7 +2,7 @@
 ## About the Project
 This is a coursework for Durham University Level 3 module of Human-AI Interaction Design. This project will install and utilise the API for emotion recognition application provided by IBM Watson® Natural Language Understanding and Google Vision AI.
 
-!-- GETTING STARTED -->
+
 ## Getting Started
 Here is how you could utilise the code.
 
