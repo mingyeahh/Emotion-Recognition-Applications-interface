@@ -1,6 +1,6 @@
 # HAIID-part2
 ## About the Project
-This is a coursework for Durham University Level 3 module Human-AI Interaction Design. This project will install and utilise the API for emotion recognition application provided by IBM Watson Natural Language Understanding and Google Vision AI.
+This is a coursework for Durham University Level 3 module Human-AI Interaction Design. This project will install and utilise the API for emotion recognition application provided by IBM Watson Natural Language Understanding and Google Cloud Vision AI.
 
 
 ## Getting Started
