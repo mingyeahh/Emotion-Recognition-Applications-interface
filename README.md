@@ -36,7 +36,7 @@ Here is how you could utilise the code.
    git clone git@github.com:mingyeahh/HAIID-part2.git
    ```
 
-6. Open a new file called `.env` in the directory `HAIID-part2`. Remember that this should be a private file that will store all the credentials.
+6. Open a new file called `.env` in the directory `Emotion-Recognition-Applications-interface`. Remember that this should be a private file that will store all the credentials.
 
 7. Add your API keys to the `.env` file
    ```py
